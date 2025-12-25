@@ -195,3 +195,31 @@ footer p {
   50% { background-position: 100% 50%; }
   100% { background-position: 0% 50%; }
 }
+.hero {
+  background: linear-gradient(270deg, rgba(255,182,193,0.8), rgba(255,105,180,0.8), rgba(255,228,236,0.8)),
+              url('https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed; /* Parallax effect */
+  animation: gradientHero 12s ease infinite;
+  color: white;
+  text-align: center;
+  padding: 6rem 2rem;
+}
+
+@keyframes gradientHero {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+.hero {
+  background: linear-gradient(270deg, rgba(255,182,193,0.7), rgba(255,105,180,0.7), rgba(255,228,236,0.7)),
+              url('assets/pastel-bg.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  animation: gradientHero 12s ease infinite;
+  color: white;
+  text-align: center;
+  padding: 6rem 2rem;
+}
