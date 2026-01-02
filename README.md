@@ -47,6 +47,9 @@ github, anaconda
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]{"linkedin":"(https://www.linkedin.com/in/kaswita-kaswita-b2b19219a)"}
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaswita-kaswita-b2b19219a)
+
+
 ## Certifications
 - [Data Science with Python](link-to-certificate) - habiskerja.com, 2024
 - [Basics of Data Science](link-to-certificate) -  Dicoding Indonesia , 2024
