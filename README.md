@@ -48,7 +48,7 @@ github, anaconda
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]{"linkedin":"https://www.linkedin.com/in/wenny-kaswita-b2b19219a/"}
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]{"linkedin":"(https://www.linkedin.com/in/kaswita-kaswita-b2b19219a/)"}
 
 ## Certifications
 
@@ -62,14 +62,8 @@ github, anaconda
 - [Data Science)](link-to-certificate) -  MySkill , 2025
 - [Data Science Fundamental)](link-to-certificate) -  MySkill , 2025
 
-## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kaswita Kaswita) 
-
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 😂Random Dev Meme
-<img src="https://i.imgflip.com/6g27oc.jpg" alt="Random Meme" width="512" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=the-first-lady&icon=0&color=0)](https://visitcount.itsvg.in)
