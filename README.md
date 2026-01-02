@@ -35,7 +35,6 @@ github, anaconda
 ![](https://github-readme-stats.vercel.app/api?username=the-first-lady&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=the-first-lady&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=the-first-lady&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
- 
 **Public Repositories:** 11  
 **Followers:** 0  
 **Following:** 0
@@ -47,7 +46,7 @@ github, anaconda
 - **Pushed** to [Market Basket Analysis](https://github.com/the-first-lady/Market-Basket-Analysis_Online-Retail-Data) on **Feb 11, 2025**  
 - **Pushed** to [Customer Segmentation](https://github.com/the-first-lady/customer-segmentation_customer-feedback-satisfaction) on **Mar 7, 2025**
 
-## Connect with Me
+## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]{"linkedin":"https://www.linkedin.com/in/wenny-kaswita-b2b19219a/"}
 
@@ -70,7 +69,7 @@ github, anaconda
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://random-memer.herokuapp.com/" alt="Random Meme" width="512" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=the-first-lady&icon=0&color=0)](https://visitcount.itsvg.in)
