@@ -1,10 +1,6 @@
 ## Hi there! 👋
 
-I'm **Kaswita**, a seasoned banking professional turned data scientist. I leverage my 15 years of industry experience to extract insights from data, helping organizations make informed decisions.
-
-## About Me
-
-📍 Based in **Indonesia**, I'm currently working at **Work From Home**. My journey from banking to data science has been fueled by my passion for analytics and problem-solving. I enjoy transforming complex datasets into actionable strategies.
+My journey from banking to data science has been fueled by my passion for analytics and problem-solving. I enjoy transforming complex datasets into actionable strategies.
 
 ## Skills & Technologies
 
