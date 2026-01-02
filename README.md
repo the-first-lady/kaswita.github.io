@@ -69,7 +69,7 @@ github, anaconda
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" alt="Random Meme" width="512" />
+<img src="https://i.imgflip.com/6g27oc.jpg" alt="Random Meme" width="512" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=the-first-lady&icon=0&color=0)](https://visitcount.itsvg.in)
