@@ -51,14 +51,35 @@ I was motivated to switch from a banking career to data science by a strong inte
 - [Basics of Data Science](link-to-certificate) -  Dicoding Indonesia , 2024
 - [Basics of SQL](link-to-certificate) -  Dicoding Indonesia , 2024
 - [Python Programming](link-to-certificate) -  Dicoding Indonesia , 2024
-- [Belajar Analisis Data dengan Python](https://www.dicoding.com/certificates/GRX53L4QKZ0M) -  Dicoding Indonesia , 2024
-- [Belajar Dasar Structured Query Language (SQL)](https://www.dicoding.com/certificates/GRX54003YP0M) -  Dicoding Indonesia , 2024
-- [Memulai Pemrograman dengan Python](https://www.dicoding.com/certificates/KEXLYN0D4ZG2) -  Dicoding Indonesia , 2024
+- [Learn Data Analysis with Python](https://www.dicoding.com/certificates/GRX53L4QKZ0M) -  Dicoding Indonesia , 2024
+- [Introduction to Structured Query Language (SQL))](https://www.dicoding.com/certificates/GRX54003YP0M) -  Dicoding Indonesia , 2024
+- [Introduction to Python Programming](https://www.dicoding.com/certificates/KEXLYN0D4ZG2) -  Dicoding Indonesia , 2024
 - [Data Science](link-to-certificate) -  MySkill , 2025
 - [Data Science Fundamental](link-to-certificate) -  MySkill , 2025
 
-### ✍️Random Dev Quote
+## ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+## 🎮 Fun Corner: Pac-Man & Snake
+
+## Pac-Man Demo
+![Pacman Demo](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
+
+## Snake Demo
+![Snake Demo](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
+---
+
+## ▶️ Mainkan Game
+- [Mainkan Pac-Man](https://username.github.io/pacman-game)
+- [Mainkan Snake](https://username.github.io/snake-game)
+
+---
+
+✨ Tambahkan bagian ini di README kamu untuk memberi kesan playful dan unik.  
+Kalau kamu belum punya game di GitHub Pages, cukup ganti link dengan project HTML/JS sederhana yang kamu upload ke repo lalu aktifkan **GitHub Pages**.
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=the-first-lady&icon=0&color=0)](https://visitcount.itsvg.in)
