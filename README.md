@@ -2,8 +2,7 @@
 
 I was motivated to switch from a banking career to data science by a strong interest in analytics and strategic problem-solving. I enjoy transforming complicated data into useful business insights.
 
-![GitHub Streak](https://streak-stats.demolab.com?user=the-first-lady&theme=tokyonight&hide_border=true&locale=id)
-
+![GitHub Streak untuk the-first-lady](https://streak-stats.demolab.com?user=the-first-lady&theme=radical&hide_border=true&locale=id&date_format=%5BY%5D%20M%20j&card_width=520)
 
 ## 💻IDE
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
