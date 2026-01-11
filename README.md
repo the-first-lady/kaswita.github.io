@@ -62,6 +62,13 @@ I was motivated to switch from a banking career to data science by a strong inte
 **Followers:** 0  
 **Following:** 0
 
+![](https://github-readme-stats.vercel.app/api?username=the-first-lady&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=the-first-lady&theme=blueberry&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=the-first-lady&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 ## 📊 Skill Radar
 [![Skill Radar](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=the-first-lady&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
