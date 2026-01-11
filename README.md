@@ -54,9 +54,9 @@ I was motivated to switch from a banking career to data science by a strong inte
   🐍 Language: Jupyter Notebook
 
 ## Dummy Projects :  
-   Healthcare/Medical : 2 Project  
-   Finance/Banking    : 1 Project  
-   Marketing/Retail   : 6 Project  
+   - Healthcare/Medical  : 2 Project  
+   - Finance/Banking     : 1 Project  
+   - Marketing/Retail    : 6 Project  
 
 ## 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=the-first-lady&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
