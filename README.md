@@ -68,12 +68,6 @@ I was motivated to switch from a banking career to data science by a strong inte
 ## 📊 Skill Radar :  
 [![Skill Radar](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=the-first-lady&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-## Recent Activity :  
-- **Pushed** to [User Retention Analysis](https://github.com/the-first-lady/User-Retention-Analysis_Online-Retail-Data) on **Dec 29, 2025**  
-- **Pushed** to [Clustering Ecommerce Customer Behavior Dataset](https://github.com/the-first-lady/clustering_Ecommerce-Customer-Behavior-Dataset.ipynb) on **Dec 28, 2025**  
-- **Pushed** to [Market Basket Analysis](https://github.com/the-first-lady/Market-Basket-Analysis_Online-Retail-Data) on **Feb 11, 2025**  
-- **Pushed** to [Customer Segmentation](https://github.com/the-first-lady/customer-segmentation_customer-feedback-satisfaction) on **Mar 7, 2025**
-
 ## Certifications :  
 - [Data Science with Python](link-to-certificate) - habiskerja.com, 2024
 - [Basics of Data Science](link-to-certificate) -  Dicoding Indonesia , 2024
