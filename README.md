@@ -24,38 +24,7 @@ I was motivated to switch from a banking career to data science by a strong inte
 ## Domain Projects :  
    - Healthcare/Medical  : 2 Project  
    - Finance/Banking      : 1 Project  
-   - Marketing/Retail     : 6 Project
-
-## Top Projects :  
-- [User Retention Analysis on Online Retail Data](https://github.com/the-first-lady/Dummy-Project-Marketing-Retail-User-Retention-Analysis-Online-Retail-Data)     
-  *Analyzing user retention patterns to enhance customer loyalty.*  
-  ![Stars](https://img.shields.io/github/stars/the-first-lady/User-Retention-Analysis_Online-Retail-Data?style=social)
-  ![Forks](https://img.shields.io/github/forks/the-first-lady/User-Retention-Analysis_Online-Retail-Data?style=social)  
-  🐍 Language: Jupyter Notebook  
-
-- [User-Segmentation_Online-Retail-Data](https://github.com/the-first-lady/Dummy-Project-Marketing-Retail-User-Segmentation-Online-Retail-Data)   
-  *To perform user segmentation using online retail data by applying the RFM (Recency, Frequency, Monetary) technique.*  
-  ![Stars](https://img.shields.io/github/stars/the-first-lady/User-Segmentation_Online-Retail-Data?style=social)
-  ![Forks](https://img.shields.io/github/forks/the-first-lady/User-Segmentation_Online-Retail-Data?style=social)  
-  🐍 Language: Jupyter Notebook  
-
-- [Market Basket Analysis on Online Retail Data](https://github.com/the-first-lady/Dummy-Project-Marketing-Retail-Market-Basket-Analysis-Online-Retail-Data)   
-  *Discovering product association patterns for marketing strategies.*  
-  ![Stars](https://img.shields.io/github/stars/the-first-lady/Market-Basket-Analysis_Online-Retail-Data?style=social)
-  ![Forks](https://img.shields.io/github/forks/the-first-lady/Market-Basket-Analysis_Online-Retail-Data?style=social)  
-  🐍 Language: Jupyter Notebook  
-
-- [Clustering_Ecommerce-Customer-Behavior-Dataset](https://github.com/the-first-lady/Dummy-Project-Marketing-Retail-Clustering-Ecommerce-Customer-Behavior-Dataset)   
-  *To identify e-commerce customer behavior patterns through clustering (unsupervised learning).*  
-  ![Stars](https://img.shields.io/github/stars/the-first-lady/Clustering_Ecommerce-Customer-Behavior-Dataset?style=social)
-  ![Forks](https://img.shields.io/github/forks/the-first-lady/Clustering_Ecommerce-Customer-Behavior-Dataset?style=social)  
-  🐍 Language: Google Colab Notebook  
-
-- [Prediction-Model_Credit-card-customer](https://github.com/the-first-lady/Dummy-Project-Banking-Finance-Prediction-Model-Credit-Card-Customer)  
-  *To predict customers who are likely to experience credit card payment delays in order to determine appropriate strategies for addressing future conditions.*  
-  ![Stars](https://img.shields.io/github/stars/the-first-lady/Prediction-Model_Credit-card-customer?style=social)
-  ![Forks](https://img.shields.io/github/forks/the-first-lady/Prediction-Model_Credit-card-customer?style=social)  
-  🐍 Language: Jupyter Notebook   
+   - Marketing/Retail     : 6 Project   
 
 ## 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=the-first-lady&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
