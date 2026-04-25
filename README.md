@@ -19,6 +19,7 @@ I was motivated to switch from a banking career to data science by a strong inte
 ![Seaborn](https://img.shields.io/badge/Seaborn-%2300CED1.svg?style=for-the-badge&logo=seaborn&logoColor=white)
 ![YData Profiling](https://img.shields.io/badge/YData%20Profiling-%23FF0000.svg?style=for-the-badge&logo=ydata&logoColor=white)
 ![PyCaret](https://img.shields.io/badge/PyCaret-%230080FF.svg?style=for-the-badge&logo=pycaret&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-%2366CCFF.svg?style=for-the-badge&logo=optuna&logoColor=white)
 
 
 - **Deployment**  
