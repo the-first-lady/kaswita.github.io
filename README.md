@@ -21,7 +21,7 @@ I was motivated to switch from a banking career to data science by a strong inte
 ![PyCaret](https://img.shields.io/badge/PyCaret-%230080FF.svg?style=for-the-badge&logo=pycaret&logoColor=white)
 
 
-- **Visualization**  
+- **Deployment**  
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Live-brightgreen?logo=streamlit)](https://share.streamlit.io/username/repo/main/app.py)  
 
 ## Domain Projects :  
