@@ -17,6 +17,9 @@ I was motivated to switch from a banking career to data science by a strong inte
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=plotly&logoColor=black) 
 ![Seaborn](https://img.shields.io/badge/Seaborn-%2300CED1.svg?style=for-the-badge&logo=seaborn&logoColor=white)
+![YData Profiling](https://img.shields.io/badge/YData%20Profiling-%23FF0000.svg?style=for-the-badge&logo=ydata&logoColor=white)
+![PyCaret](https://img.shields.io/badge/PyCaret-%230080FF.svg?style=for-the-badge&logo=pycaret&logoColor=white)
+
 
 - **Visualization**  
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Live-brightgreen?logo=streamlit)](https://share.streamlit.io/username/repo/main/app.py)  
