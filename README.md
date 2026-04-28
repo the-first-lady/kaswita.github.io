@@ -20,7 +20,7 @@ I was motivated to switch from a banking career to data science by a strong inte
 ![YData Profiling](https://img.shields.io/badge/YData%20Profiling-%23FF0000.svg?style=for-the-badge&logo=ydata&logoColor=white)
 ![PyCaret](https://img.shields.io/badge/PyCaret-%230080FF.svg?style=for-the-badge&logo=pycaret&logoColor=white)
 ![Optuna](https://img.shields.io/badge/Optuna-%2366CCFF.svg?style=for-the-badge&logo=optuna&logoColor=white)
-![Optuna](https://img.shields.io/badge/Optuna-%2366CCFF.svg?style=for-the-badge&logo=optuna&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-%23FF7043.svg?style=for-the-badge&logo=shap&logoColor=white)
 
 - **Deployment**  
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Live-brightgreen?logo=streamlit)](https://share.streamlit.io/username/repo/main/app.py)  
