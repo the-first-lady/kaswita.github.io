@@ -6,7 +6,7 @@ I was motivated to switch from a banking career to data science by a strong inte
 - **IDE**  
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
-![VS Code](https://img.shields.io/badge/V%20S%20Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
   
 - **Language**   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
